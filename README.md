@@ -1,4 +1,4 @@
-### Hi there 👋 I'm AbdulAzeez.. I'm a Web Developer
+### Hi there 👋 I'm AbdulAzeez.. I love solving problems
 
 <!--
 **zyzornatti/zyzornatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
